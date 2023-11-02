@@ -1,0 +1,34 @@
+.headerr{
+    height: 205px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-size: 45px;
+}
+.nav{
+    background-color: skyblue;
+}
+.sidebar{
+    background-color: yellow;
+    float: left;
+    width: 10%;
+    height: 420px;
+}
+.foot{
+    background-color: skyblue;
+    color: black;
+    height:55px;
+    margin-top: -26.5px;
+    font-size: 28px;
+    
+}
+.bodyy{
+    height: 420px;
+    margin-top: -19px;
+    margin-bottom: 10px;
+    
+    background-color: grey;
+}
